@@ -4,7 +4,12 @@ export const NavBar = () => {
   return(
 
     <div className="navigation">
-      there will be navigation
+      <ul>
+        <li>home</li>
+        <li>list</li>
+        <li>about</li>
+        <li>kontakts</li>
+      </ul>
     </div>
   )
 }
